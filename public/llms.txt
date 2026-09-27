@@ -1,0 +1,48 @@
+# NAVA AI — Context & Knowledge Base
+
+> Intelligence for a Better Tomorrow. Same Land. Brighter Future.
+
+## Overview
+NAVA AI is an initiative dedicated to building a smarter, greener, and more human future for Kerala through Artificial Intelligence, sustainable infrastructure, and heritage preservation. Rooted in Kerala and built for the world, NAVA AI envisions a future where heritage and technology grow together — empowering people, protecting the planet, and creating opportunities for generations to come.
+
+- **Vision:** A Greener, Smarter Kerala for Generations
+- **Tagline:** Intelligence for a Better Tomorrow
+- **Core Idea:** Same Land. Brighter Future.
+- **Focus Triad:** People · Planet · Progress
+- **Geographic Roots:** Kerala, India (8.5241° N, 76.9366° E)
+- **Primary Website:** https://nava.ai
+
+---
+
+## Strategic Focus Pillars
+
+### 1. AI-Powered Sustainable Infrastructure & Clean Energy
+- Decentralized microgrids with autonomous balancing between solar, hydro, and wind across Kerala's coastal and highland nodes.
+- Predictive climate resilience algorithms to safeguard against extreme monsoons and flooding.
+- 100% renewable-first energy distribution.
+
+### 2. Intelligent Eco-Cities & Autonomous Mobility (Kerala Eco-Polis)
+- Human-scale townships combining biophilic architecture with zero-emission autonomous transit.
+- Multi-modal mobility connecting backwater electric boats, pedestrian greenways, and elevated maglev transit.
+- Preserving natural wetlands and coconut groves through zero urban sprawl policies.
+
+### 3. Precision Agro-AI & Environmental Protection
+- Edge-AI biosensors and drone fleets monitoring soil hydration, mineral density, and canopy health across tea plantations and paddy fields.
+- 42% reduction in water waste and chemical leaching.
+- Real-time biosensing of Vembanad and Ashtamudi backwaters.
+
+### 4. World-Class Education & Global Opportunity
+- Democratizing AI research and compute infrastructure across all 14 districts of Kerala.
+- Malayalam-native foundation models and local language NLP.
+- Direct talent pipelines connecting Kerala engineers and researchers to global innovation hubs while retaining talent locally.
+
+### 5. Preserving Kerala's Heritage, Values & Communities
+- Digitizing centuries of traditional ecological knowledge, Ayurveda, architectural wisdom, and classical arts.
+- Community-governed digital prosperity ensuring inclusive prosperity across all demographics.
+
+---
+
+## Technical & Architectural Directives
+- **Interface Language:** Precision specification-sheet aesthetic, whisper-light typography (Geist Sans w300), flat tonal layering, and 80px curved media portholes.
+- **Color Palette:** Deep Obsidian Black (`#060907`), Charcoal Card Surface (`#0d120f`), and Luminous Kerala Emerald (`#00e676`).
+- **Framework:** Next.js 16 (App Router), React 19 Server Components, Tailwind CSS v4 with semantic tokens, and Motion physics springs.
