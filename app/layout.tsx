@@ -57,6 +57,9 @@ export const metadata: Metadata = {
     description: "Same Land. Brighter Future. A Greener, Smarter Kerala for Generations.",
     images: ["/images/kerala_ai_greencity.jpg"],
   },
+  verification: {
+    google: "_p9GkgAxg9Ftn-5GcAxNc0TsVM4kCpImH_JBjHERlgE"
+  }
 };
 
 export default function RootLayout({
