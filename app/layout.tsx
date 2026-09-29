@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://nava.ai"),
+  metadataBase: new URL("https://navaai.vercel.app"),
   title: "NAVA AI — Intelligence for a Better Tomorrow",
   description:
     "NAVA AI is building a smarter, greener and more human future for Kerala through Artificial Intelligence, sustainable infrastructure and heritage preservation. Same Land. Brighter Future.",
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     title: "NAVA AI — Intelligence for a Better Tomorrow",
     description:
       "A Greener, Smarter Kerala for Generations. Envisioning a future where heritage and technology grow together.",
-    url: "https://nava.ai",
+    url: "https://navaai.vercel.app",
     siteName: "NAVA AI",
     locale: "en_US",
     type: "website",
