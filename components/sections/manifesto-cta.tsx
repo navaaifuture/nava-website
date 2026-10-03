@@ -71,7 +71,7 @@ export function ManifestoCta() {
           {/* Matched Pair of Pill Buttons */}
           <div className="flex flex-wrap items-center justify-center gap-4">
             <Link
-              href="mailto:contact@nava.ai"
+              href="mailto:navaaifuture@gmail.com"
               className="inline-flex items-center justify-center gap-2 rounded-full bg-primary px-8 py-3.5 text-sm font-medium text-primary-foreground transition-all duration-200 hover:bg-primary/90 active:scale-[0.98]"
             >
               <span>Partner with NAVA AI</span>
