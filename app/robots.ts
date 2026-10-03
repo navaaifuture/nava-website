@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://nava.ai/sitemap.xml",
+    sitemap: "https://navaai.vercel.app/sitemap.xml",
   };
 }
