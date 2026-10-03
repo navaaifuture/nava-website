@@ -10,7 +10,7 @@ NAVA AI is an initiative dedicated to building a smarter, greener, and more huma
 - **Core Idea:** Same Land. Brighter Future.
 - **Focus Triad:** People · Planet · Progress
 - **Geographic Roots:** Kerala, India (8.5241° N, 76.9366° E)
-- **Primary Website:** https://nava.ai
+- **Primary Website:** https://navaai.vercel.app
 
 ---
 
